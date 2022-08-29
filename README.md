@@ -1,0 +1,1 @@
+Applying SOLID principles in React
